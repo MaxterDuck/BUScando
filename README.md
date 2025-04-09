@@ -8,12 +8,17 @@
 ## 🔀 Roles y entregables
 
 ### 👥 Product Owner - Requisitos
-- **Problema que resuelve**: Falta de concentración y malos hábitos de estudio entre jóvenes.
-- **Público objetivo**: Estudiantes entre 14 y 22 años.
-- **3 funcionalidades clave**:
-  1. Temporizador Pomodoro con sonidos relajantes.
-  2. Sistema de recompensas al cumplir metas de estudio.
-  3. Historial visual de productividad.
+Problema que resuelve: La incertidumbre sobre la llegada del transporte público, pérdida de tiempo en paraderos y falta de comunicación entre usuarios, conductores y supervisores.
+
+Público objetivo: -Usuarios del transporte público
+-Conductores de buses
+-Supervisores del sistema de transporte
+
+3 funcionalidades clave:
+i. Visualización en tiempo real del bus y su ubicación actual
+ ii. Canal de reporte de novedades por parte del conductor (tráfico, incidentes, retrasos)
+ iii. Panel de control para el supervisor con acceso a estadísticas, recorridos y estado en vivo, chat en tiempo real con el conductor.
+
 
 ### 📊 Analista - Análisis
 - **Tareas**:
