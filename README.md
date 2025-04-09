@@ -1,7 +1,7 @@
 # Startup Challenge: Ejemplo Resuelto - "FocusZen"
 
 ## ✨ Nombre del producto
-**FocusZen** - Una app que ayuda a estudiantes a concentrarse usando sesiones de enfoque, sonido ambiente y metas diarias.
+**BUScando** - Una app que ayuda a las personas que usan el transporte publico y a sus trabajadores 
 
 ---
 
