@@ -1,7 +1,7 @@
 # Startup Challenge: Ejemplo Resuelto - "FocusZen"
 
 ## ✨ Nombre del producto
-**BUScando** - Una app que ayuda a las personas que usan el transporte publico y a sus trabajadores 
+**BUScando** - La app que conecta usuarios, conductores y supervisores del transporte público en tiempo real.
 
 ---
 
