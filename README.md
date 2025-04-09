@@ -1,4 +1,4 @@
-# Startup Challenge: Ejemplo Resuelto - "FocusZen"
+# Empresa: BUScando
 
 ## ✨ Nombre del producto
 **BUScando** - La app que conecta usuarios, conductores y supervisores del transporte público en tiempo real.
