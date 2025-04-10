@@ -44,7 +44,7 @@
 
 **Conductor**: media
 
-**Superviso**: media
+**Supervisor**: media
 
 **Restricciones**:
 La persona siempre tiene que tener internet desde un dispositivo móvil
