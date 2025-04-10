@@ -22,6 +22,7 @@
 -Supervisores del sistema de transporte
 
 **funcionalidades clave**:
+
 **i**. Visualización en tiempo real del bus y su ubicación actual
 
  **ii**. Canal de reporte de novedades por parte del conductor (tráfico, incidentes, retrasos)
