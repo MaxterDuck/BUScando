@@ -8,15 +8,23 @@
 ## 🔀 Roles y entregables
 
 ### 👥 Product Owner - Requisitos
-Problema que resuelve: La incertidumbre sobre la llegada del transporte público, pérdida de tiempo en paraderos y falta de comunicación entre usuarios, conductores y supervisores.
+Problema que resuelve: La incertidumbre sobre la llegada del transporte público
+
+-pérdida de tiempo en paraderos 
+
+-falta de comunicación entre usuarios, conductores y supervisores.
 
 Público objetivo: -Usuarios del transporte público
+
 -Conductores de buses
+
 -Supervisores del sistema de transporte
 
 3 funcionalidades clave:
 i. Visualización en tiempo real del bus y su ubicación actual
+
  ii. Canal de reporte de novedades por parte del conductor (tráfico, incidentes, retrasos)
+ 
  iii. Panel de control para el supervisor con acceso a estadísticas, recorridos y estado en vivo, chat en tiempo real con el conductor.
 
 
