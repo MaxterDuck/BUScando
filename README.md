@@ -26,7 +26,7 @@
 
  **ii**. Canal de reporte de novedades por parte del conductor (tráfico, incidentes, retrasos)
  
-** iii**. Panel de control para el supervisor con acceso a estadísticas, recorridos y estado en vivo, chat en tiempo real con el conductor.
+**iii**. Panel de control para el supervisor con acceso a estadísticas, recorridos y estado en vivo, chat en tiempo real con el conductor.
 
 
 ### 📊 Analista - Análisis
