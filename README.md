@@ -32,7 +32,7 @@
 
 ### 📊 Analista - Análisis
 - **Tareas**:
- Tareas:
+
 **Usuarios**: Configurar ubicación del bus para el usuario (Con  Google maps,waze etc…) Reloj en tiempo real y conexión a internet. 
 
 **Conductor**: Organización y tiempo (Ventana para reporte de accidentes o percances).
