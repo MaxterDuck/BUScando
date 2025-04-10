@@ -14,7 +14,8 @@
 
 -falta de comunicación entre usuarios, conductores y supervisores.
 
-**Público objetivo**: -Usuarios del transporte público
+**Público objetivo**: 
+-Usuarios del transporte público
 
 -Conductores de buses
 
