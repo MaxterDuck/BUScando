@@ -30,8 +30,11 @@ i. Visualización en tiempo real del bus y su ubicación actual
 **Supervisor**: Crear un chequeo sobre tiempo y estado del conductor y rutas de bus. 
 
 Dificultad estimada:
+
 **Usuario**: media
+
 **Conductor**: media
+
 **Superviso**: media
 
 **Restricciones**:
