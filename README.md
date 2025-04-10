@@ -22,16 +22,18 @@ i. Visualización en tiempo real del bus y su ubicación actual
 
 ### 📊 Analista - Análisis
 - **Tareas**:
-  - Configurar sesiones de temporizador.
-  - Vincular metas y recompensas.
-  - Crear sistema de historial con gráficas.
-- **Dificultad estimada**:
-  - Temporizador: media
-  - Recompensas: alta
-  - Historial: media
-- **Restricciones**:
-  - Solo funciona sin conexión a internet.
-  - Interfaz ultra simple, sin distracciones.
+ Tareas:
+**Usuarios**: Configurar ubicación del bus para el usuario (Con  Google maps,waze etc…) Reloj en tiempo real y conexión a internet. 
+**Conductor**: Organización y tiempo (Ventana para reporte de accidentes o percances).
+**Supervisor**: Crear un chequeo sobre tiempo y estado del conductor y rutas de bus.  
+Dificultad estimada:
+**Usuario**: media
+**Conductor**: media
+**Superviso**: media
+**Restricciones**:
+La persona siempre tiene que tener internet desde un dispositivo móvil
+Sincronización entre ambas partes
+
 
 ### 🎨 Diseñador UX/UI - Bocetos y flujo
 - **Pantalla 1**: Temporizador activo con selector de sonido (mar, bosque, silencio).
