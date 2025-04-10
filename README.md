@@ -36,6 +36,7 @@ Dificultad estimada:
 
 **Restricciones**:
 La persona siempre tiene que tener internet desde un dispositivo móvil
+
 Sincronización entre ambas partes
 
 
